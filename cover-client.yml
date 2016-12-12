@@ -4,7 +4,7 @@ cover:
     coverTypesEndpoint: "covers"
     random-faults: true
     failsafe:
-      cover-types: "No Cover because Josh hate covers. Just sheets."
+      cover-types: "No Cover. Burn the boats."
 
 management:
   security:
