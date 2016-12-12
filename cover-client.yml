@@ -1,6 +1,6 @@
 cover:
   client:
-    coverServiceLogicalName: "COVER-SERVICE"
+    coverServiceLogicalName: "cover-server"
     coverTypesEndpoint: "covers"
     random-faults: true
     failsafe:
