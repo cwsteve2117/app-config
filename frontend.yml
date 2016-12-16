@@ -1,0 +1,16 @@
+frontend:
+  coverServiceLogicalName: "cover-server"
+  coverTypesEndpoint: "covers"
+  random-faults: true
+  failsafe:
+    cover-types: "No Cover. Burn the boats."
+
+management:
+  security:
+    enabled: false
+
+
+logging:
+  level:
+    io:
+      pivotalservices: DEBUG
